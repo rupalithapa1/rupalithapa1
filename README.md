@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupalithapa1
 - 👀 I’m interested in programming..
-- 🌱 I’m currently working as Data Scientist at Vijai Robotics Pvt. Lmtd
+- 🌱 I’m currently working as Data Scientist at Vijai Robotics Pvt. Ltd
 - 📫 How to reach me roopthapa@gmail.com
 
 <!---
